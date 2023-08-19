@@ -27,12 +27,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./public/screenshots/screenshot-desktop.png)
-![](./public/screenshots/screenshot-mobile.jpg)
+![](./public/screenshots/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/aatmane010/advice-generator-app)
+- [Live Site URL](https://advice-generator-app-six-drab.vercel.app/)
 
 ## My process
 
